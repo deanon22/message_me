@@ -10,7 +10,7 @@ gem 'sqlite3', '~> 1.3.13'
 #gem 'sqlite3'
 #gem install sqlite3 -v '1.4.0' --source 'https://rubygems.org/'
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
